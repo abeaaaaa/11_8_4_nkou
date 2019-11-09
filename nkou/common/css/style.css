@@ -508,12 +508,22 @@ article #panNavi .panNaviContainer ul li a{
     color: #36538d;
 }
 
+
+article #panNavi .panNaviContainer ul li .correspondence_unitSystem_1{
+    padding-right: 13px
+}
+
+article #panNavi .panNaviContainer ul li .correspondence_unitSystem_2{
+    border-left: 1px solid #36538d;
+    padding-left: 13px;
+    padding-right: 10px
+}
+
 article #panNavi .panNaviContainer ul li a:hover{
     text-decoration: underline;
 }
                             
 article #panNavi .panNaviContainer ul li:last-child{
-    color: #272727;
     padding-left: 5px;
 }
 
