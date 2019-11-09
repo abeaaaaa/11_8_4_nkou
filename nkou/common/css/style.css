@@ -21,6 +21,8 @@ a{
     width:100%;
     background-color:rgb(234,240,247,0.9);
     position: fixed;
+    left:0;
+    top:0;
     z-index: 10;
 }
 .fixedHeaderWrapper .fixedHeaderContainer{
